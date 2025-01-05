@@ -1,4 +1,4 @@
-n = 50
+n = 100
 element = 0
 sum = 0
 print("Elements are:")
@@ -11,4 +11,4 @@ while n:
     else:
         element += 1
 
-print(f"\n\n Sum of first 50 odd numbers is:", sum)
+print(f"\n\n Sum of first 100 odd numbers is:", sum)
